@@ -5,3 +5,12 @@ echo $1 $2
 n1=$1
 n2=$2
 echo ans=$((n1+n2))             
+
+
+#!/bin/bash
+#use predefined variables to access passed arguments
+#echo arguments to the shell
+echo $1 $2
+n1=$1
+n2=$2
+echo ans=$((n1+n2))    
