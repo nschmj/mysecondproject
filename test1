@@ -1,6 +1,7 @@
 #!/bin/bash
 #use predefined variables to access passed arguments
 #echo arguments to the shell
+#Giving demo to do merge conflicts, how it happens........
 echo $1 $2
 n1=$1
 n2=$2
