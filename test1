@@ -7,7 +7,7 @@ n1=$1
 n2=$2
 echo ans=$((n1+n2))             
 
-changing something to see whats happening..........
+changing something to see whats happening..........adding something.......
 #!/bin/bash
 #use predefined variables to access passed arguments
 #echo arguments to the shell
